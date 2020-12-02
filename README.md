@@ -270,7 +270,7 @@ Based on this, the schema that fitted the need is - Galaxy Schema.
 ## **Step 5 Analytical Queries & Solution to different scenarios**
 ## Please go to data-analysis/ folder for queries and visualizations
  [Click here to view basic queries](./data-analysis/basic_queries.ipynb) </br>
- [Click here for Tableau dashboard](./data-analysis/readme.md)
+ [Click here for Tableau dashboard](./data-analysis/README.md)
 
 ## Solution to different scenarios
 - **If the data was increased by 100x.:**  
